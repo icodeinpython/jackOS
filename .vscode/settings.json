@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "cstdint": "c",
+        "format": "c",
+        "terminal.h": "c",
+        "system.h": "c",
+        "charconv": "c",
+        "valarray": "c",
+        "idt.h": "c",
+        "array": "c",
+        "chrono": "c",
+        "deque": "c",
+        "forward_list": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "span": "c",
+        "strings.h": "c",
+        "sstream": "c",
+        "bitset": "cpp",
+        "*.tcc": "c",
+        "fstream": "c",
+        "task.h": "c"
+    }
+}

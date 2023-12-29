@@ -1,0 +1,5 @@
+/.vagrant
+/floppy.img
+
+*.bin
+*.o
